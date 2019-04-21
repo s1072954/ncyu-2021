@@ -1,0 +1,11 @@
+version: 2
+
+jobs:
+    build:
+        docker:
+            - image: ubuntu
+        steps:
+            - checkout
+            - run:
+                name: verify
+                command: bash scripts/verify.sh
