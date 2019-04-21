@@ -1,0 +1,7 @@
+*   Example 4: merge 
+|\  
+| * Example 4: 4 
+* | Example 4: 3 
+* | Example 4: 2 
+|/  
+* Example 4: 1 
