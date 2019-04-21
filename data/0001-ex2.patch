@@ -1,0 +1,19 @@
+--- a/ex2.txt
++++ b/ex2.txt
+@@ -2,7 +2,7 @@ int ex2() {
+ 	/*
+ 	 * test
+ 	 * test
+-	 * test
++	 * tst
+ 	 * test
+ 	 */
+ 
+@@ -13,7 +13,7 @@ int ex2(int i) {
+ 	/*
+ 	 * test
+ 	 * test
+-	 * test
++	 * txt
+ 	 * test
+ 	 */

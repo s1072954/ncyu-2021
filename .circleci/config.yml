@@ -1,0 +1,14 @@
+version: 2
+
+jobs:
+    build:
+        docker:
+            - image: ubuntu
+        steps:
+            - checkout
+            - run:
+                name: prepare
+                command: apt-get update && apt-get install -y git
+            - run:
+                name: verify
+                command: bash scripts/verify.sh

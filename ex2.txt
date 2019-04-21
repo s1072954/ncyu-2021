@@ -1,0 +1,21 @@
+int ex2() {
+	/*
+	 * test
+	 * test
+	 * test
+	 * test
+	 */
+
+	return 0;
+}
+
+int ex2(int i) {
+	/*
+	 * test
+	 * test
+	 * test
+	 * test
+	 */
+
+	return 0;
+}
