@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main() {
+	print("Here is ex5!");
 	return 1;
 }
